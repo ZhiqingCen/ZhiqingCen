@@ -4,8 +4,8 @@
 
 - 🐛 Creating bug since 2019
 - 📖 Studied Bachelor of Computer Science and Master of Information Technology in UNSW
-- 🌱 I’m currently learning **game development using unreal engine, blender and C++**
-- ⚡ Fun fact **I'm a videographer**
+- 🌱 I’m currently learning game development using unreal engine, blender and C++
+- ⚡ Fun fact I'm a videographer
 
 <h3 align="left">Languages and Tools:</h3>
 
