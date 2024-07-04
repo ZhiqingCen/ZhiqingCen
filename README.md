@@ -77,7 +77,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+      <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
       </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
