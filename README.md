@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning game development using unreal engine, blender and C++
 - ⚡ Fun fact I'm a videographer
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="left">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
@@ -89,6 +89,8 @@
 
 ###
 
+<h3 align="center">Connect with me:</h3>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/zhiqing-cen" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -97,4 +99,12 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhiqingcen&show_icons=true&locale=en&layout=compact" alt="zhiqingcen" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhiqingcen&show_icons=true&locale=en&layout=compact" alt="zhiqingcen" />
+</div>
+
+###
+
+<div align="center">
+  <img src="/image/grid-snake.svg" alt="snake" /></a>
+</div>
